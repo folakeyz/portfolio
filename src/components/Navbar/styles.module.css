@@ -1,0 +1,40 @@
+.navbar{
+    width: 8%;
+    height: 100vh;
+    position: fixed;
+    background: #7163BA;
+    padding: .5rem;
+    border-radius: 50px;
+}
+.logo{
+    width: 100%;
+    height: 5rem;
+    border-bottom: 1px solid gainsboro;
+    padding: 1rem;
+    text-align: center;
+}
+.logo svg{
+    font-size: 30px;
+    color: white;
+}
+.navLinks{
+    width: 100%;
+    height: auto;
+    min-height: 45rem;
+    border-bottom: 1px solid white;
+}
+.navLinks ul{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.navLinks ul li{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    line-height: 6rem;
+    list-style: none;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}

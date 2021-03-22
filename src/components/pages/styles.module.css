@@ -1,0 +1,28 @@
+.app{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    display: block;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.grids{
+    display: grid;
+    grid-template-columns: 31% 31% 31%;
+    grid-gap: 20px;
+}
+.card{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    display: block;
+}
+.color1{
+    background: whitesmoke;
+    padding: 2rem;
+}
+.color2{
+    background: white;
+}
